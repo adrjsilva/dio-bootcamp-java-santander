@@ -7,7 +7,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.5.4</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>digitalinnovation.one</groupId>
 	<artifactId>lab-padroes-projeto-spring</artifactId>
@@ -17,7 +17,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<openapi.version>1.5.10</openapi.version>
+		<openapi.version>1.6.7</openapi.version>
 		<spring-cloud.version>2020.0.3</spring-cloud.version>
 	</properties>
 
